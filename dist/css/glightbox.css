@@ -474,7 +474,7 @@
 .gprev.disabled,
 .gnext.disabled,
 .gclose.disabled {
-  opacity: 0.1;
+  opacity: 0;
 }
 
 .gprev .garrow,
